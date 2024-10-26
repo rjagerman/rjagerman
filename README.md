@@ -1,4 +1,4 @@
-#### Interests :sparkles:
+#### Interests :star:
  * Machine Learning :robot:
  * Large Language Models :sparkles:
  * Information Retrieval :mag_right:
